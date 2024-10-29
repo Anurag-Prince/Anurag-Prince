@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate software engineer from India</h3>
-<img align=“right’ alt=“coding” width=“400” src=“https://user-images.githubusercontent...>
+<h3 align="center">A passionate software engineer from IIT Delhi</h3>
+<img align=“right’  width=“400” src=“https://user-images.githubusercontent...>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-prince&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-prince" /> </p>
 
